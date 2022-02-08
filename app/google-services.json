@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "810302587458",
+    "project_id": "shoeping-b3493",
+    "storage_bucket": "shoeping-b3493.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810302587458:android:bef20165cc1b511a9f63db",
+        "android_client_info": {
+          "package_name": "com.example.shoeping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810302587458-4lcs6ruvvr3ogtc25hf6blrbbs0uob4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlFAhYjFIzNMDCD4oewzsBU7FE6jg4Ozk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810302587458-4lcs6ruvvr3ogtc25hf6blrbbs0uob4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
