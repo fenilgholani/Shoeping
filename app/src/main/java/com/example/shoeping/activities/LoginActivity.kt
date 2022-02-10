@@ -1,7 +1,8 @@
-package com.example.shoeping
+package com.example.shoeping.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.shoeping.R
 
 class LoginActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
