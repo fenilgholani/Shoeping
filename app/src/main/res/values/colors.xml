@@ -13,4 +13,7 @@
         <item name="windowNoTitle">true</item>
         <item name="android:background">@null</item>
     </style>
+    <style name="TextLabel" parent="Widget.MaterialComponents.TextInputLayout.FilledBox">
+
+    </style>
 </resources>
